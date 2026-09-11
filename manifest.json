@@ -1,0 +1,8 @@
+{
+  "name": "KG to Maund Converter",
+  "short_name": "Maund Converter",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#007bff"
+}
